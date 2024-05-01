@@ -1,4 +1,4 @@
-![image](https://github.com/junxian428/FPGA_YeHuo_LED/assets/58724748/13a16bd1-468b-483a-9928-9a587eaf4c0a)# FPGA_YeHuo_LED
+# FPGA_YeHuo_LED
 
 Button
 
