@@ -7,3 +7,5 @@ Button
 LED
 
 ![image](https://github.com/junxian428/FPGA_YeHuo_LED/assets/58724748/9437a9cd-90b3-4fc4-8068-68d0c825ec5f)
+
+![image](https://github.com/junxian428/FPGA_YeHuo_LED/assets/58724748/699f0ad9-0206-4bfa-97e7-bea8380b87be)
