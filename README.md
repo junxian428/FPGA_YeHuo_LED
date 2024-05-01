@@ -11,3 +11,5 @@ LED
 ![image](https://github.com/junxian428/FPGA_YeHuo_LED/assets/58724748/699f0ad9-0206-4bfa-97e7-bea8380b87be)
 
 ![image](https://github.com/junxian428/FPGA_YeHuo_LED/assets/58724748/720d02cc-ab59-4cf0-b006-4e7888a6913d)
+
+![image](https://github.com/junxian428/FPGA_YeHuo_LED/assets/58724748/6cae78a0-9798-4cb5-a399-8a62efec71d4)
